@@ -17,4 +17,4 @@ You may also see any lint errors in the console.
 This repository is a work of practicing different concepts of React.
 
 1. Apollo Client Implementation:
-https://tanviagarwal-39991.medium.com/fetch-data-from-graphql-api-using-apollo-client-af5c872ad2d0
+<br/>https://tanviagarwal-39991.medium.com/fetch-data-from-graphql-api-using-apollo-client-af5c872ad2d0
