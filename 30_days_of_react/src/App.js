@@ -1,12 +1,9 @@
-import './App.css';
-import UserCard from '../src/Components/UserCard/UserCard.js';
-
+import "./App.css";
+import Space from './Content/Space/Space.js';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <UserCard/>
-      </header>
+    <div>
+     <Space/>
     </div>
   );
 }
